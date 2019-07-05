@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+    background-image: url(https://66.media.tumblr.com/e9603c1c8da0f43ab4a3c51f55f0e75e/tumblr_oz0p91fnnn1u7y1eoo5_250.png)
+}
+button{
+    font-size: 12pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: -2px;
+    padding: 5px;
+
+}
+
+h1{
+    font-size: 45pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.meses{
+    background-color: antiquewhite;
+}
+
+
+#inicio{
+    background-color: rgb(241, 229, 179);
+}
+
+div h2:first-child{
+    color: palevioletred;
+}
+
+div h2:nth-child(2){
+    color: hotpink;
+}
+
+div h2:last-child{
+    color: deeppink;
+}
